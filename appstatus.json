@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "maintenance": {
-    "active": true,
+    "active": false,
     "level": "hard",
     "title": "Идут технические работы",
     "message": "Приложение временно недоступно. Вы можете оформить заём на сайте.",
