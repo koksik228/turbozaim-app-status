@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "maintenance": {
+    "active": false,
+    "level": "hard",
+    "title": "Идут технические работы",
+    "message": "Приложение временно недоступно. Вы можете оформить заём на сайте.",
+    "cta": { "label": "Перейти на сайт", "url": "https://turbozaim.ru" }
+  },
+  "minVersion": { "ios": "1.0.0" },
+  "updateUrl": "https://apps.apple.com/app/id000000000",
+  "flags": { "registration": true, "tbank": true }
+}
