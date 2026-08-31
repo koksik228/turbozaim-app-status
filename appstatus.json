@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "maintenance": {
     "active": false,
     "level": "hard",
@@ -11,11 +11,24 @@
     }
   },
   "minVersion": {
-    "ios": "1.0.0"
+    "ios": "1.0.0",
+    "android": "1.0.0"
   },
-  "updateUrl": "https://apps.apple.com/app/id000000000",
   "flags": {
     "registration": true,
     "tbank": true
+  },
+  "platforms": {
+    "ios": {
+      "maintenance": {
+        "active": false
+      }
+    },
+    "android": {
+      "maintenance": {
+        "active": false
+      },
+      "updateUrl": "https://www.rustore.ru/catalog/app/ru.turbozaim.app"
+    }
   }
 }
