@@ -15,7 +15,7 @@
     "android": "1.0.0"
   },
   "flags": {
-    "registration": false,
+    "registration": true,
     "tbank": true
   },
   "platforms": {
