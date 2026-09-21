@@ -26,7 +26,7 @@
     },
     "android": {
       "maintenance": {
-        "active": false
+        "active": true
       },
       "updateUrl": "https://www.rustore.ru/catalog/app/ru.turbozaim.app"
     }
